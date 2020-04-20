@@ -1,12 +1,12 @@
 {
     "adType": "GOOGLE_AD",
     "adObject": {
-        "icon": "https://lh3.googleusercontent.com/oUumwu8K50ptpuE8xZO5cIzRoR32sez8sIgZGmZ7L260ASxpRoNQCUFqzdJDnnb9ZA=s360-rw",
-        "cover": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/graphice.png",
-        "appName": "Face Emoji Photo Editor",
+        "icon": "https://lh3.googleusercontent.com/0ZkJRBI6frJZ5nnCdNb58QhpIcECXp2kRlM25cUk8c0-EzZeloeonk6bLMwCOuFUCPM=s360-rw",
+        "cover": "https://raw.githubusercontent.com/chuhuawie/frameart/cover1.png",
+        "appName": "Filters for Snapchat",
         "publisherName": "Photo collage Master",
-        "packageName": "pcm.face.emoji.photo.editor",
-        "url": "https://play.google.com/store/apps/details?id=pcm.face.emoji.photo.editor"
+        "packageName": "pcm.face.filter.editor.collage",
+        "url": "https://play.google.com/store/apps/details?id=pcm.face.filter.editor.collage"
     },
     "smallAd": {
         "icon": "https://lh3.googleusercontent.com/oUumwu8K50ptpuE8xZO5cIzRoR32sez8sIgZGmZ7L260ASxpRoNQCUFqzdJDnnb9ZA=s360-rw",
