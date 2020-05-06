@@ -1,12 +1,12 @@
 {
     "adType": "GOOGLE_AD",
     "adObject": {
-        "icon": "https://lh3.googleusercontent.com/0ZkJRBI6frJZ5nnCdNb58QhpIcECXp2kRlM25cUk8c0-EzZeloeonk6bLMwCOuFUCPM=s360-rw",
-        "cover": "https://raw.githubusercontent.com/chuhuawie/frameart/master/cover1.png",
-        "appName": "Filters for Snapchat",
+        "icon": "https://lh3.googleusercontent.com/ox9HmBOAoqHGOCelGHJEej_VtE6rH49C4lG79cnFS4SAvjBH9dH01g5AzaH5hd-o6eOc=s180-rw",
+        "cover": "https://raw.githubusercontent.com/chuhuawie/frameart/master/glicgra.png",
+        "appName": "Glitch Frame Photo Editor",
         "publisherName": "Download Now",
-        "packageName": "pcm.face.filter.editor.collage",
-        "url": "https://play.google.com/store/apps/details?id=pcm.face.filter.editor.collage"
+        "packageName": "cofs.glitch.frame.photo.editor",
+        "url": "https://play.google.com/store/apps/details?id=cofs.glitch.frame.photo.editor"
     },
     "smallAd": {
         "icon": "https://lh3.googleusercontent.com/oUumwu8K50ptpuE8xZO5cIzRoR32sez8sIgZGmZ7L260ASxpRoNQCUFqzdJDnnb9ZA=s360-rw",
